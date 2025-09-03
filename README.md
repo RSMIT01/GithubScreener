@@ -1,29 +1,21 @@
-# Create T3 App
+## GitHub Screener
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+**Tech Stack:** Next.js, Prisma, LangChain, Gemini AI, Stripe, Tailwind CSS, TypeScript  
 
-## What's next? How do I make an app with this?
+- 📊 Developed an AI tool to analyze top GitHub commits using **Gemini AI** and generate repository insights.  
+- 🔎 Implemented a **LangChain RAG pipeline** with custom Gemini embeddings and **Prisma vector DB** for semantic querying.  
+- 💳 Integrated a **Stripe-based credit system** for controlled usage and monetization.  
+- 🎨 Built a **responsive UI** with **Tailwind CSS, TypeScript, and Next.js** for seamless user experience.  
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+---
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+### 🚀 Preview
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+![GitHub Screener Interface](https://raw.githubusercontent.com/RSMIT01/Project-Images/main/githubscreener1.png)
+&nbsp;
+![GitHub Screener Insights](https://raw.githubusercontent.com/RSMIT01/Project-Images/main/githubscreener2.png)
+&nbsp;
+![GitHub Screener Insights](https://raw.githubusercontent.com/RSMIT01/Project-Images/main/githubscreener3.png)
+&nbsp;
+![GitHub Screener Insights](https://raw.githubusercontent.com/RSMIT01/Project-Images/main/githubscreener4.png)
+&nbsp;
